@@ -30,8 +30,8 @@ module.exports = function(grunt) {
         files: [
           // Foundation
           {
-            src: 'bower_components/foundation/js/foundation.min.js',
-            dest: 'js/build/foundation.min.js',
+            src: 'bower_components/bootstrap-sass/assets/javascripts/bootstrap.min.js',
+            dest: 'js/build/bootstrap.min.js',
           },
           // jQuery
           {
